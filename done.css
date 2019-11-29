@@ -116,3 +116,10 @@ body {
 .seriously {
   font-family: "seriously";
 }
+@font-face {
+         font-family: "bebasn";
+         src: url('https://origin01.github.io/ebaaaay/BebasNeue-Regular.ttf');
+         }
+.bebasn {
+  font-family: "seriously";
+}

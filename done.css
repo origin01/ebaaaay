@@ -40,6 +40,7 @@ body {
 /* Right-aligned link */
 .navbar a.right {
   float: right;
+  font-family: dash;
 }
 
 /* Change color on hover */

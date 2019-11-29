@@ -123,3 +123,10 @@ body {
 .bebasn {
   font-family: "seriously";
 }
+@font-face {
+         font-family: "dash";
+         src: url('https://origin01.github.io/ebaaaay/Dash-Dermo.ttf');
+         }
+.bebasn {
+  font-family: "dash";
+}

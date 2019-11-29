@@ -40,7 +40,7 @@ body {
 /* Right-aligned link */
 .navbar a.right {
   float: right;
-  font-family: dash;
+  font: url('https://origin01.github.io/ebaaaay/Dash-Dermo.ttf');
 }
 
 /* Change color on hover */
